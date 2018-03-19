@@ -1,0 +1,4 @@
+1.What is jira?
+
+Ans:Jira is a project management tool,It provides bug tracking, issue tracking,
+and project management functions.
